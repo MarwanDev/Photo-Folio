@@ -68,7 +68,7 @@ const Portfolio = () => {
               <img
                 loading="lazy"
                 src={images.portfolio1}
-                alt='portfolio-pic'
+                alt='portfolio'
                 className="aspect-square object-contain object-center w-full overflow-hidden"
               />
               <p className='p-2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
