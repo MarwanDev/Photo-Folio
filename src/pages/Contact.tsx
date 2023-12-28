@@ -26,9 +26,6 @@ const Contact: React.FC = () => {
     setFormData({ ...formData, [event.target.name]: event.target.value });
   };
 
-  const handleSubmit = (event: React.FormEvent<HTMLInputElement>) => {
-    event.preventDefault();
-  };
   return (
     <div className="bg-white flex flex-col items-center">
 
