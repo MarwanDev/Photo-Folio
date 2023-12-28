@@ -120,6 +120,7 @@ const Contact: React.FC = () => {
               <img
                 loading="lazy"
                 src={images.portfolio2}
+                alt='contact'
                 className="aspect-[0.67] object-contain object-center w-full overflow-hidden"
               />
               <div className="text-neutral-500 text-xs mt-5">

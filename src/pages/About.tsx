@@ -33,6 +33,7 @@ const About = () => {
             <img
               loading="lazy"
               src={images.camera1}
+              alt='about'
               className="aspect-[1.5] object-contain object-center w-full overflow-hidden grow max-md:max-w-full max-md:mt-7"
             />
           </div>
@@ -44,6 +45,7 @@ const About = () => {
             <img
               loading="lazy"
               srcSet={images.camera2}
+              alt='about'
               className="aspect-[1.54] object-contain object-center w-full overflow-hidden grow max-md:max-w-full max-md:mt-5"
             />
           </div>
