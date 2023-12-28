@@ -211,6 +211,6 @@ Feel free to check the [issues page](https://github.com/MarwanDev/phot-folio/iss
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](License) licensed.
+This project is [MIT](https://github.com/MarwanDev/Photo-Folio/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
